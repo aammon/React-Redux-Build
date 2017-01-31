@@ -1,7 +1,7 @@
 ## Getting Started
 
 ```bash
-git clone https://github.com/aammon/gulp.git MyApp
+git clone https://github.com/aammon/React-Redux-Build.git MyApp
 cd MyApp
 npm install
 ```
@@ -17,5 +17,3 @@ webpack-dev-server --content-base client --inline --hot
 ```bash
 webpack -p
 ```
-
-# React_Build
